@@ -1,0 +1,12 @@
+{
+  "description": "My personal shortener",
+  "domain": "is-cool.dev",
+  "subdomain": "tuananh-link",
+  "owner": {
+    "username": "tuananhvonguyendan-hash",
+    "email": "tuananhvonguyendan@gmail.com"
+  },
+  "record": {
+    "CNAME": "link-shortener.tuananhvonguyendan.workers.dev"
+  }
+}
